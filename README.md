@@ -1,11 +1,11 @@
 ### Hello there, I'm Vivien 👋
-#### I'm a fullstack web developer based in Paris, France.
+#### I'm a web developer based in Paris, France.
 
 ---
 
 ###### About me
 :soon: I'm currently looking for a job opportunity as a back-end developer  
-:heart: I have been working with Ruby on Rails for over a year, and I also know how to create a ReactJS app, while currently learning Node JS
+:heart: I have been working with Ruby on Rails for a year, and I also know how to create a ReactJS app, while currently learning Node JS
 :office: Before I started dreaming about lines of code, I was in business school and had no idea of what a commit was.  
 
 ###### Tech Stack
